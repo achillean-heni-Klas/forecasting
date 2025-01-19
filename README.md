@@ -92,3 +92,5 @@ reduce `max_articles` in config
 - feed reader apps (gui, not terminal)
 
 MIT
+
+# PR Merge: 2025-11-01 07:40:24
